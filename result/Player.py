@@ -12,3 +12,4 @@ class Player(GameSprite):
     def fire(self):
         bullet = Bullet('bullet.png', self.rect.centerx,self.rect.top,-15,20,15,self.width,self.height,self.window)
         return bullet
+    def()
